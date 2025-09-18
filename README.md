@@ -25,7 +25,7 @@ This is basically, my screenshot, links to the solution, process, nad i just wan
 
 ### Links
 
-- Solution URL: [solution URL here](https://www.frontendmentor.io/solutions/responsive-qr-code-page-ncOV12MjKx)
+- Solution URL: [solution URL here](https://www.frontendmentor.io/solutions/responsive-qr-code-page-ncOV12Mjkx)
 - Live Site URL: [live site URL here](https://rafman0.github.io/qr-code-component/)
 
 ## My process
@@ -72,3 +72,4 @@ i'd like to focus more on css flexbox, and grid system. And also line indentatio
 - youtube - [CodeWithMe](www.youtube.com/@Rafman01)
 
 - Frontend Mentor - [@Rafman0](https://www.frontendmentor.io/profile/Rafman0)
+
